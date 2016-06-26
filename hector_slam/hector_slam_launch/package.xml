@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<package>
+  <name>hector_slam_launch</name>
+  <version>0.3.4</version>
+  <description>
+    hector_slam_launch contains launch files for launching hector_slam with different robot systems/setups/postprocessing scenarios.
+  </description>
+
+  <maintainer email="meyer@fsr.tu-darmstadt.de">Johannes Meyer</maintainer>
+
+
+  <license>BSD</license>
+
+  <url type="website">http://ros.org/wiki/hector_slam_launch</url>
+
+
+  <author email="kohlbrecher@sim.tu-darmstadt.de">Stefan Kohlbrecher</author>
+
+
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <run_depend>hector_mapping</run_depend>
+  <run_depend>hector_map_server</run_depend>
+  <run_depend>hector_trajectory_server</run_depend>
+  <run_depend>hector_geotiff</run_depend>
+  <run_depend>hector_geotiff_plugins</run_depend>
+
+
+  <export>
+
+
+  </export>
+</package>

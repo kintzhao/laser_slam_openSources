@@ -1,0 +1,11 @@
+<map id="sensorlog.h" name="sensorlog.h">
+<area shape="rect" id="node4" href="$sensorreading_8h.html" title="gmapping/sensor/sensor\l_base/sensorreading.h" alt="" coords="526,171,689,213"/>
+<area shape="rect" id="node8" href="$odometrysensor_8h.html" title="gmapping/sensor/sensor\l_odometry/odometrysensor.h" alt="" coords="170,171,360,213"/>
+<area shape="rect" id="node9" href="$rangesensor_8h.html" title="gmapping/sensor/sensor\l_range/rangesensor.h" alt="" coords="714,171,877,213"/>
+<area shape="rect" id="node16" href="$odometryreading_8h.html" title="gmapping/sensor/sensor\l_odometry/odometryreading.h" alt="" coords="320,81,515,122"/>
+<area shape="rect" id="node18" href="$rangereading_8h.html" title="gmapping/sensor/sensor\l_range/rangereading.h" alt="" coords="705,81,868,122"/>
+<area shape="rect" id="node19" href="$configuration_8h.html" title="configuration.h" alt="" coords="119,88,225,115"/>
+<area shape="rect" id="node5" href="$sensor_8h.html" title="sensor.h" alt="" coords="303,261,375,288"/>
+<area shape="rect" id="node11" href="$point_8h.html" title="gmapping/utils/point.h" alt="" coords="576,261,724,288"/>
+<area shape="rect" id="node15" href="$gvalues_8h.html" title="gvalues.h" alt="" coords="562,336,640,363"/>
+</map>

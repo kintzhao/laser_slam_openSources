@@ -1,0 +1,23 @@
+actions: []
+authors: Brian Gerkey
+brief: ''
+bugtracker: ''
+depends:
+- nav_msgs
+- catkin
+- roscpp
+- openslam_gmapping
+- rostest
+- tf
+description: "This package contains a ROS wrapper for OpenSlam's Gmapping. \n  The\
+  \ gmapping package provides laser-based SLAM (Simultaneous Localization and Mapping),\
+  \ \n  as a ROS node called slam_gmapping. Using slam_gmapping, you can create a\
+  \ 2-D occupancy\n  grid map (like a building floorplan) from laser and pose data\
+  \ collected by a mobile robot."
+license: CreativeCommons-by-nc-sa-2.0
+maintainers: Vincent Rabaud <vincent.rabaud@gmail.com>
+msgs: []
+package_type: package
+repo_url: ''
+srvs: []
+url: http://ros.org/wiki/gmapping

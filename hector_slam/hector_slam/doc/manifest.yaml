@@ -1,0 +1,26 @@
+actions: []
+authors: Stefan Kohlbrecher <kohlbrecher@sim.tu-darmstadt.de>, Johannes Meyer <meyer@fsr.tu-darmstadt.de>
+brief: ''
+bugtracker: ''
+depends:
+- hector_imu_attitude_to_tf
+- catkin
+- hector_compressed_map_transport
+- hector_slam_launch
+- hector_nav_msgs
+- hector_trajectory_server
+- hector_geotiff
+- hector_geotiff_plugins
+- hector_marker_drawing
+- hector_map_server
+- hector_map_tools
+- hector_mapping
+description: The hector_slam metapackage that installs hector_mapping and related
+  packages.
+license: BSD
+maintainers: Johannes Meyer <meyer@fsr.tu-darmstadt.de>
+msgs: []
+package_type: metapackage
+repo_url: ''
+srvs: []
+url: http://ros.org/wiki/hector_slam

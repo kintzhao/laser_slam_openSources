@@ -1,0 +1,11 @@
+hector_geotiff/include/hector_geotiff
+hector_map_tools/include/hector_map_tools
+hector_mapping/include/hector_slam_lib/map
+hector_mapping/include/hector_slam_lib/matcher
+hector_mapping/include/hector_slam_lib/scan
+hector_mapping/include/hector_slam_lib/slam_main
+hector_mapping/include/hector_slam_lib/util
+hector_mapping/src
+hector_marker_drawing/include/hector_marker_drawing
+hector_mapping/include
+hector_mapping/include/hector_slam_lib

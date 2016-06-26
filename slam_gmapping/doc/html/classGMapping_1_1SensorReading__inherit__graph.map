@@ -1,0 +1,4 @@
+<map id="GMapping::SensorReading" name="GMapping::SensorReading">
+<area shape="rect" id="node2" href="$classGMapping_1_1OdometryReading.html" title="GMapping::OdometryReading" alt="" coords="5,80,200,107"/>
+<area shape="rect" id="node3" href="$classGMapping_1_1RangeReading.html" title="GMapping::RangeReading" alt="" coords="225,80,399,107"/>
+</map>

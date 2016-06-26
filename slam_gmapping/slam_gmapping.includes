@@ -1,0 +1,16 @@
+include/gmapping/grid
+include/gmapping/gridfastslam
+include/gmapping/log
+include/gmapping/particlefilter
+include/gmapping/scanmatcher
+include/gmapping/sensor/sensor_base
+include/gmapping/sensor/sensor_odometry
+include/gmapping/sensor/sensor_range
+include/gmapping/utils
+include/openslam_gmapping/gridfastslam
+include/openslam_gmapping/particlefilter
+include/openslam_gmapping/scanmatcher
+include/openslam_gmapping/sensor/sensor_base
+include/openslam_gmapping/utils
+src
+include

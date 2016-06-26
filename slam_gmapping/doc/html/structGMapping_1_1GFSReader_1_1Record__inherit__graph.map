@@ -1,0 +1,11 @@
+<map id="GMapping::GFSReader::Record" name="GMapping::GFSReader::Record">
+<area shape="rect" id="node2" href="$structGMapping_1_1GFSReader_1_1CommentRecord.html" title="GMapping::GFSReader\l::CommentRecord" alt="" coords="214,5,373,46"/>
+<area shape="rect" id="node3" href="$structGMapping_1_1GFSReader_1_1EntropyRecord.html" title="GMapping::GFSReader\l::EntropyRecord" alt="" coords="214,70,373,111"/>
+<area shape="rect" id="node4" href="$structGMapping_1_1GFSReader_1_1LaserRecord.html" title="GMapping::GFSReader\l::LaserRecord" alt="" coords="214,135,373,177"/>
+<area shape="rect" id="node5" href="$structGMapping_1_1GFSReader_1_1NeffRecord.html" title="GMapping::GFSReader\l::NeffRecord" alt="" coords="214,201,373,242"/>
+<area shape="rect" id="node6" href="$structGMapping_1_1GFSReader_1_1OdometryRecord.html" title="GMapping::GFSReader\l::OdometryRecord" alt="" coords="214,266,373,307"/>
+<area shape="rect" id="node7" href="$structGMapping_1_1GFSReader_1_1PoseRecord.html" title="GMapping::GFSReader\l::PoseRecord" alt="" coords="214,331,373,373"/>
+<area shape="rect" id="node8" href="$structGMapping_1_1GFSReader_1_1RawOdometryRecord.html" title="GMapping::GFSReader\l::RawOdometryRecord" alt="" coords="214,397,373,438"/>
+<area shape="rect" id="node9" href="$structGMapping_1_1GFSReader_1_1ResampleRecord.html" title="GMapping::GFSReader\l::ResampleRecord" alt="" coords="214,462,373,503"/>
+<area shape="rect" id="node10" href="$structGMapping_1_1GFSReader_1_1ScanMatchRecord.html" title="GMapping::GFSReader\l::ScanMatchRecord" alt="" coords="214,527,373,569"/>
+</map>
